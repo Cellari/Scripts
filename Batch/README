@@ -1,0 +1,1 @@
+If used from a Windows Task Scheduler then these Batch scripts do not pass program control back to the Task Scheduler. For that 'call' is needed.
